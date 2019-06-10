@@ -1,0 +1,2 @@
+    * [+] Video devices check.
+    * [+] Auto detect haarcascade eye or eyeglasses.
